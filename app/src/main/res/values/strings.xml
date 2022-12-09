@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XposedReady</string>
+
+    <string-array name="module_scope">
+        <item>android</item>
+    </string-array>
+
+</resources>
